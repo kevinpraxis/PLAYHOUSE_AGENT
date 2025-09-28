@@ -1,0 +1,9 @@
+requests
+requests-oauthlib
+python-dateutil
+typer
+python-dotenv
+pydantic
+tenacity
+google-generativeai
+google-auth

@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.env
+.env.*
+seen_ids.json
+data/*
+!data/.gitkeep
+.DS_Store
+.vscode/
+.idea/
